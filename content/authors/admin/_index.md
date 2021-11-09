@@ -6,7 +6,7 @@ title: Mingcong Chen
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant in The State Key Laboratory for Management and Control of Complex Systems (SKL-MCCS), Institute of Automation, Chinese Academy of Sciences (CAS)
+role: Research Assistant in SKL-MCCS, Institute of Automation, Chinese Academy of Sciences (CASIA)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -46,8 +46,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/wpddmcmc
-- icon: linkedin
-  icon_pack: qq
+- icon: qq
+  icon_pack: fas
   icon_pack: fab
   link: http://wpa.qq.com/msgrd?v=3&uin=125865836&site=qq&menu=yes
 
