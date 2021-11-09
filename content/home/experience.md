@@ -41,7 +41,7 @@ experience:
     company_logo: 
     location: China
     date_start: '2019-06-01'
-    date_end: '2019-09-1'
+    date_end: '2019-09-01'
     description: Lane detection and object detection for autonomous driving.
 
 design:
