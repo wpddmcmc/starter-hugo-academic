@@ -20,6 +20,7 @@ bio: Currently I am working as a research assistant in CASIA with research inter
 interests:
 - Robotics
 - Biomedical Engineering
+- Computer Vision
 - Artificial Intelligence
 
 # Education to show in About widget

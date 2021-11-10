@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 80%
+- description: 90%
   icon: ubuntu
   icon_pack: fab
-  name: UBUNTU/ROS
+  name: UBUNTU
 - description: 90%
   icon: github
   icon_pack: fab
@@ -28,6 +28,14 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+  - description: 80%
+  icon: brain
+  icon_pack: fas
+  name: Deeplearning
+- description: 80%
+  icon: robot
+  icon_pack: fas
+  name: Robotics
 - description: 60%
   icon: cogs
   icon_pack: fas
