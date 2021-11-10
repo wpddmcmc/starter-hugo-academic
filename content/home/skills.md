@@ -28,6 +28,10 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description: 60%
+  icon: cogs
+  icon_pack: fas
+  name: Solidworks
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
