@@ -28,7 +28,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-  - description: 80%
+- description: 80%
   icon: brain
   icon_pack: fas
   name: Deeplearning
