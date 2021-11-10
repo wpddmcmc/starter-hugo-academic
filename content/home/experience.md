@@ -62,8 +62,8 @@ experience:
     location: Xi'an, China
     date_start: '2016-07-01'
     date_end: '2018-09-01'
-    description: 
-    Responsibilities include:
+    description: |2-
+      Responsibilities include:
       Work with university robot team (IROBOT) to build up 7 robots to joint ROBOMASTERS Competation
         * Robot armor detection and auto shooting 
         * Buff detection and shooting
