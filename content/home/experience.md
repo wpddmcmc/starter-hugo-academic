@@ -34,7 +34,6 @@ experience:
         
         * Ultrosound based Medical Robot Control
         * Nerul Network
-
    - title: Algorithm Engineer/Co-funder
     company: Haptron Scientific
     company_url: ''
@@ -46,7 +45,6 @@ experience:
         Responsibilities include:
         * 6-Axis force sensor development (signal box and algorithm development)
         * Robot grinding with force feedback
-
   - title: Research Assistant (Part-time)
     company: Kings' College London, Haptic Mechatronics & Medical Robotics Lab
     company_url: 'https://kclhammerlab.com/'
@@ -67,7 +65,6 @@ experience:
     date_start: '2019-06-01'
     date_end: '2019-09-01'
     description: Lane detection and object detection for autonomous driving.
-
   - title: Robot Vision Development
     company: Xidian University, IROBOT Team
     company_url: 'https://en.xidian.edu.cn/'
