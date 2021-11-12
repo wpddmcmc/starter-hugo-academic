@@ -2,7 +2,7 @@
 title: The Buff detection and enemy robots detection system
 summary: IRobot Robot Team of Xidian University
 tags:
-- Deep Learning
+- Robot
 date: "2016-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,6 +1,6 @@
 ---
 title: Lane detection and object detection 
-summary: Inturn project in Inspur-Lane detection and object detection.
+summary: Intern project in Inspur-Lane detection and object detection.
 tags:
 - Deep Learning
 date: "2019-07-27T00:00:00Z"
@@ -31,6 +31,7 @@ url_video: "https://youtu.be/o-JSw9U2P-o"
 ---
 
 ## Project finished by myself in Inspur, the main idea is simple:
+{{< youtube o-JSw9U2P-o >}}
 ### Binary image
 Separate the channels and obtain three single channel gray images corresponding to blue, green and red respectively, Filter the values of each pixel of the three images respectively, for example, white Lane (b > 200, G > 200, R > 200, all set to 255, otherwise 0), Yellow Lane (b < 150, G > 200, R > 200, all set to 255, otherwise 0), Merge the images to obtain a three channel black-and-white binary image (only 255 and 0, i.e. 0 and 1).
 ### Perspective Transformation

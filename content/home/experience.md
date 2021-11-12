@@ -27,13 +27,26 @@ experience:
     company_url: 'http://www.ia.cas.cn/'
     company_logo: 
     location: China
-    date_start: '2020-10-01'
+    date_start: '2021-06-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
         * Ultrosound based Medical Robot Control
         * Nerul Network
+
+   - title: Algorithm Engineer/Co-funder
+    company: Haptron Scientific
+    company_url: ''
+    company_logo: 
+    location: China
+    date_start: '2020-10-01'
+    date_end: '2020-06-01'
+    description: |2-
+        Responsibilities include:
+        * 6-Axis force sensor development (signal box and algorithm development)
+        * Robot grinding with force feedback
+
   - title: Research Assistant (Part-time)
     company: Kings' College London, Haptic Mechatronics & Medical Robotics Lab
     company_url: 'https://kclhammerlab.com/'
@@ -48,7 +61,7 @@ experience:
         * Force Senser Development for Phamtom
   - title: AI Engineer, Intern
     company: Inspur
-    company_url: ''
+    company_url: 'https://en.inspur.com/'
     company_logo: 
     location: China
     date_start: '2019-06-01'
@@ -57,7 +70,7 @@ experience:
 
   - title: Robot Vision Development
     company: Xidian University, IROBOT Team
-    company_url: ''
+    company_url: 'https://en.xidian.edu.cn/'
     company_logo: 
     location: Xi'an, China
     date_start: '2016-07-01'
