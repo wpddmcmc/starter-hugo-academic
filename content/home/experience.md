@@ -28,12 +28,13 @@ experience:
     company_logo: 
     location: China
     date_start: '2021-06-01'
-    date_end: ''
+    date_end: '2020-03-31'
     description: |2-
         Responsibilities include:
         
-        * Ultrosound based Medical Robot Control
-        * Nerul Network
+        * Ultrasound based Medical Robot Control
+        * Vessel detection in ultrasound
+
    - title: Algorithm Engineer/Co-funder
     company: Haptron Scientific
     company_url: ''
