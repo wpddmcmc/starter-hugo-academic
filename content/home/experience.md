@@ -35,17 +35,6 @@ experience:
         * Ultrasound based Medical Robot Control
         * Vessel detection in ultrasound
 
-   - title: Algorithm Engineer/Co-funder
-    company: Haptron Scientific
-    company_url: ''
-    company_logo: 
-    location: China
-    date_start: '2020-10-01'
-    date_end: '2020-06-01'
-    description: |2-
-        Responsibilities include:
-        * 6-Axis force sensor development (signal box and algorithm development)
-        * Robot grinding with force feedback
   - title: Research Assistant (Part-time)
     company: Kings' College London, Haptic Mechatronics & Medical Robotics Lab
     company_url: 'https://kclhammerlab.com/'
