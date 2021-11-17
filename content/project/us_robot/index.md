@@ -38,6 +38,8 @@ I developed a Real-time vessel and vessel wall detection (main for artery) with 
 
 The vessel detection result is shown below:
 
+{{< video src="w.avi" controls="yes" >}}
+
 ## Robot Scanning
 
 To make sure the contact between Ultrasound probe and the leg, the impendance control with a 6-axis force sensor is used for z-axis control.
@@ -45,3 +47,5 @@ To make sure the contact between Ultrasound probe and the leg, the impendance co
 To know wether the ultrasound image is usable, the iamge is calculated into confidence map to eveluate the qulity. Hence we can adjust the rotation of the probe to get a more confident (clear) image.
 
 ![](./confidence.png)
+
+{{< video src="US.mp4" controls="yes" >}}
