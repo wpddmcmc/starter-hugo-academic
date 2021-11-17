@@ -26,15 +26,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Robotics (Pass with Distinction)
+  - course: MSc in Robotics 
     institution: King's College London, London, UK
-    year: 2019-2020
-  - course: Visiting student for FYP (Joint Degree with 1st class Honor)
+    year: Pass with Distinction, 2019-2020
+  - course: Visiting student for FYP 
     institution: Edinburgh Centre for Robotics, Edinburgh, UK
-    year: 2018-2019
-  - course: BEng in Telecommunication Engineering (GPA:3.46/4)
+    year: Joint Degree with 1st class Honor, 2018-2019
+  - course: BEng in Telecommunication Engineering 
     institution: Xidian University, Xi'an, China
-    year: 2015-2019
+    year: GPA 3.46/4, 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
