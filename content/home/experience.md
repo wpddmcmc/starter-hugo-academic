@@ -41,7 +41,7 @@ experience:
     company_logo: 
     location: China
     date_start: '2020-10-01'
-    date_end: '2020-05-31'
+    date_end: '2021-05-31'
     description: |2-
         Responsibilities include:
         * 6-Axis force sensor development (signal box and algorithm development)
