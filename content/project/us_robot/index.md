@@ -3,6 +3,7 @@ title: Robotic Ultrasound Scanning for Human Leg
 summary: Automatic scanning the vessels (net step - auto puncture)
 tags:
 - Computer vision
+- Deep Learning
 - Robot
 date: "2021-06-01T00:00:00Z"
 
