@@ -38,7 +38,7 @@ I developed a Real-time vessel and vessel wall detection (main for artery) with 
 
 The vessel detection result is shown below:
 
-{{< video src="w.avi" controls="yes" >}}
+{{< video src="w.mp4" controls="yes" >}}
 
 ## Robot Scanning
 
