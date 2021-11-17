@@ -1,24 +1,32 @@
 ---
-widget: hero
-headless: true
+widget: slider
+headless: true  # This file represents a page section.
 weight: 10
-title: Thanks for interesting in me
-hero_media: 
-cta:
-  label: '**Get Started**'
-  url: https://mingcongchen.netlify.app/#about
-cta_alt:
-  label: View my projects with medias
-  url: https://mingcongchen.netlify.app/#project
-design:
-  background:
-    gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
-    text_color_light: true
-advanced:
-  css_class: fullscreen
----
+# ... Put Your Section Options Here (section position etc.) ...
 
-**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
+# Slide interval.
+# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
+interval: false
 
-**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
+# Minimum slide height.
+# Specify a height to ensure a consistent height for each slide.
+height: 300px
+
+
+item:
+  - title: Hello
+    content: 'I am center aligned 😄'
+    # Choose `center`, `left`, or `right` alignment.
+    align: center
+    # Overlay a color or image (optional).
+    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    overlay_color: '#666'  # An HTML color value.
+    overlay_img: bubbles.jpg  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Download my app
+    cta_url: 'https://example.org'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
