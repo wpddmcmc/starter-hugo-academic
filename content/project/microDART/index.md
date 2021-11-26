@@ -26,6 +26,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+**The photo shown in the title is our brand new version flexible robot in CASIA for bronchial surgery, the design and control principle is totally same as microDART (the robot shown below)**
 [View my master degree theisis <i class="fas fa-file-pdf"></i>](./MingcongChen_19007740_HongbinLiu_FinalReport_2019-20.pdf)
 
 **Robot in this project called micro Dexterous Assistive Robotic Therapy (microDART)**
