@@ -6,15 +6,15 @@ title: Mingcong Chen
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant in SKL-MCCS, Institute of Automation, Chinese Academy of Sciences (CASIA)
+role: Joint PhD Student in The City University of Hong Kong (CityU) and Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences (HKISI-CAS).
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute of Automation, Chinese Academy of Sciences
-  url: http://www.ia.cas.cn/
+- name: Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences
+  url: http://www.cair-cas.org.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently I am working as a research assistant in CASIA with research interests in medical robotics.
+bio: Currently I am a joint PhD student in CityU and CAIR with research interests in medical robotics.
 
 # Interests to show in About widget
 interests:
@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Biomedical Engineering
+    institution: City University of Hong Kong, Hong Kong SAR
+    year: 2023-
   - course: MSc in Robotics (Pass with Distinction)
     institution: King's College London, London, UK
     year: 2019-2020
@@ -43,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mingcong.chen@ia.ac.cn'
+  link: 'mailto:mingcong.chen@cair-cas.org.hk'
 - icon: github
   icon_pack: fab
   link: https://github.com/wpddmcmc
