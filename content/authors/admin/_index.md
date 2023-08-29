@@ -69,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a research assistant in The State Key Laboratory for Management and Control of Complex Systems (SKL-MCCS), Institute of Automation, Chinese Academy of Sciences (CAS). Currentlly I am working for Prof.Hongbin Liu of the Group of Smart Minimal Invasive technology. My research interests are medical robots and surgical robots.
+I am a joint PhD Student in The City University of Hong Kong (CityU) and Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences (HKISI-CAS). Currentlly I am working for Prof.Hongbin Liu (CAIR) and Prof.Lidai Wang (CityU). My research interests are medical robots and surgical robots.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
