@@ -18,7 +18,7 @@ authors:
 # - "Equal contribution"
 
 date: "2023-08-26T00:00:00Z"
-doi: "10.1109/ICRA48891.2023.10161148"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 date: "2023-08-26T00:00:00Z"
