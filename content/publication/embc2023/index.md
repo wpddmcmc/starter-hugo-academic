@@ -1,15 +1,14 @@
 ---
-title: "Magnetic-Actuated Flexible Instruments with Enhanced Bending Capability through Magnetic Distribution Optimization "
+title: "A Robotized Soft Endoscope with Stereo Vision for Upper Gastrointestinal Endoscopic Submucosal Dissection (ESD)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yuanrui Huang 
-- Runyu Ma
-- Jian Hu
-- admin
 - Jian Chen 
+- Shuai Wang
+- Qingxiang Zhao
+- admin
 - Hongbin Liu
 
 # # Author notes (optional)
@@ -17,11 +16,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-08-26T00:00:00Z"
-doi: "10.1109/ICRA48891.2023.10161148"
+date: "2023-07-24T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-date: "2023-08-26T00:00:00Z"
+date: "2023-07-24T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,10 +29,10 @@ date: "2023-08-26T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *19th International Conference on Automation Science and Engineering*
-publication_short: In *CASE 2023*
+publication: In *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society*
+publication_short: In *EMBC 2023*
 
-abstract: Magnetically-actuated flexible surgical robot has promising applications for ultra-narrow and tortuous orifices. However, maximizing its bending capability and manipulability remains a significant hurdle for clinical use. In this study, we introduce an objective function that can accurately predict a catheter's bending angle with given numbers of internal permanent magnets (IPMs) under various magnetic fields through iterative calculation. The optimal magnets distribution that yields the maximal controllable bending angle, could be determined by optimizing this objective function. The effectiveness of this method is validated through simulations and experiments. Additionally, we propose a simple control scheme to control the bending angle of the magnetically-actuated catheter based on the piecewise constant curvature model. The experimental results demonstrate that the proposed method significantly improves the motion accuracy of the catheter. The catheter with the optimized magnet distribution achieved superior tracking performance with an Integral Absolute Error (IAE) of 1.08 rad∙s and maximal controllable bending angle of 150°. 
+abstract: This work presents a novel dual-segment flexible robotic endoscope designed to enhance reachability and dexterity during ESD surgery. The proposed system is capable of executing multi-angle cutting operations at a small angle relative to the lesion surface, allowing for efficient en-bloc resection. Additionally, the system incorporates two calibrated RGB cameras and a depth estimation algorithm to provide detailed 3D information of the tumour, which is used to guide the control framework. A stereo visual servoing controller is also implemented to improve path-following performance during surgery. Experiments results indicate that the proposed system improves motion stability and precision. The root means square error (RMSE) of circle path following is 1.1991mm with a maximum of 1.4751mm. Ex-vivo testing demonstrates its significant potential for use in endoscopic surgery.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -60,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'featured.png'
+  caption: 'icra2023.png'
   focal_point: ""
   preview_only: false
 
