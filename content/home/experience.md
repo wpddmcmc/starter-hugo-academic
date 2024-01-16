@@ -22,20 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
+  - title: Robotics Engineer
+    company: Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences
+    company_url: 'https://www.cair-cas.org.hk/'
+    company_logo: 
+    location: Hong Kong SAR
+    date_start: '2022-04-25'
+    date_end: '2023-04-25'
+    description: |2-
+        Responsibilities include:
+
+        * Ultrasound based Medical Robot Control
+        * Flexible Surgical Robot for Neurosurgery - MicroNeuro
+        * Navigation System for MicroNeuro
+
+  - title: Robotics Engineer
     company: CASIA
     company_url: 'http://www.ia.cas.cn/'
     company_logo: 
     location: China
     date_start: '2021-05-31'
-    date_end: ''
+    date_end: '2022-04-25'
     description: |2-
         Responsibilities include:
         
         * Ultrasound based Medical Robot Control
         * Vessel detection in ultrasound
 
-  - title: Algorithm Engineer/Co-funder
+  - title: Algorithm Engineer
     company: Haptron Scientific
     company_url: ''
     company_logo: 
