@@ -19,7 +19,7 @@ feature:
 - description: Know the usage of Linux and dev of ROS
   icon: ubuntu
   icon_pack: fab
-  name: UBUNTU
+  name: Linux
 - description: Good
   icon: github
   icon_pack: fab

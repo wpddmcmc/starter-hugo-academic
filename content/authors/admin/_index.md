@@ -19,8 +19,9 @@ bio: Currently I am a joint PhD student in CityU and CAIR with research interest
 # Interests to show in About widget
 interests:
 - Robotics
+- Medical Robot
+- Embodied AI
 - Biomedical Engineering
-- Computer Vision
 - Artificial Intelligence
 
 # Education to show in About widget
@@ -28,6 +29,9 @@ education:
   courses:
   - course: PhD in Biomedical Engineering
     institution: City University of Hong Kong, Hong Kong SAR
+    year: 2023-
+  - course: Joint PhD in Medical Robotics
+    institution: CAIR HKISIS CAS, Hong Kong SAR
     year: 2023-
   - course: MSc in Robotics (Pass with Distinction)
     institution: King's College London, London, UK
