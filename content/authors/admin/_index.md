@@ -14,7 +14,7 @@ organizations:
   url: http://www.cair-cas.org.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently I am a joint PhD student in CityU and CAIR with research interests in medical robotics.
+bio: Currently I am a joint PhD student in CityU and CAIR with research interests in medical robotics and embodied AI.
 
 # Interests to show in About widget
 interests:
@@ -73,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a joint PhD Student in The City University of Hong Kong (CityU) and Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences (HKISI-CAS). Currentlly I am working for Prof.Hongbin Liu (CAIR) and Prof.Lidai Wang (CityU). My research interests are medical robots and surgical robots.
+I am a joint PhD Student in The City University of Hong Kong (CityU) and Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences (HKISI-CAS). Currentlly I am working for Prof.Hongbin Liu (CAIR) and Prof.Lidai Wang (CityU). My research interests are medical robots and surgical robots with embodied AI.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
